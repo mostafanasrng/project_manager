@@ -1,0 +1,10 @@
+{
+  "name": "progect-v86",
+  "description": "A comprehensive project management system for contractors, employers, and consultants with technical office capabilities including quantity takeoff and statements.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
